@@ -1,0 +1,11 @@
+[
+	{
+		"name": "Statue of Glory",
+		"replaces": "Monument",
+		"uniqueTo": "Arkania",
+		"culture": 3,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1
+	}
+]
