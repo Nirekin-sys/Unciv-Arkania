@@ -1,0 +1,31 @@
+[
+	{
+
+		"name": "Arkania",
+		"leaderName": "Emperor Adrian",
+		"adjective": ["Arkanian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "May the blessings of heaven be upon you, O great Nebuchadnezzar, father of mighty and ancient Babylon! Young was the world when Sargon built Babylon some five thousand years ago, long did it grow and prosper, gaining its first empire the eighteenth century BC, under godlike Hammurabi, the giver of law. Although conquered by the Kassites and then by the Assyrians, Babylon endured, emerging phoenix-like from its ashes of destruction and regaining its independence despite its many enemies. Truly was Babylon the center of arts and learning in the ancient world. O Nebuchadnezzar, your empire endured but a short time after your death, falling to the mighty Persians, and then to the Greeks, until the great city was destroyed by 141 BC.",
+		"startIntroPart2": "But is Babylon indeed gone forever, great Nebuchadnezzar? Your people look to you to bring the empire back to life once more. Will you accept the challenge? Will you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "The glory of Arkania can never be satiated.",
+		"attacked": "You will not even get past our walls, barbarian.",
+		"defeated": "It is what the Arkanians leave behind that only matters now...",
+		"introduction": "Hail to Arkania, foreigner.",
+		
+		"neutralHello": "Glory to Arkania.",
+		"hateHello": "Arkania does not tolerate your presence, barbarian.",
+		
+		"tradeRequest": "We have travelled hostile roads to trade with you, barbarian.",
+				
+		"outerColor": [0,17,255],
+		"innerColor": [255,216,0],
+		"unique": "ANCIEN_REGIME",
+		"cities": ["Magna Gloria","Icenorum","Portus Magnus","Colonia Adriana","Ad Novas","Aphrodisias","Ceuniacum","Aurelia Aquensi","Paxorum","Pollentia",
+			"Radasbona","Haga-Comitis","Altinum","Castra Bonnensia","Constantia","Segontium","Baiae","Celaenae","Heliopolis","Commodiana",
+			"Vercellae","Belgica","Barium","Ardotalia","Corinium Dobunnorum","Istropolis","Lindum Colonia","Vectis","Ad Anisum","Adra",
+			"Adriana Concordia","Dierna","Lauriacum","Aventicum","Anio","Caranuscae","Corcyra","Adria","Calleva Atrebatum","Nova Gloria"]
+	}
+]
